@@ -1,5 +1,5 @@
 package hu.bme.mit.spaceship;
-
+//teszt komment branchB
 /**
 * A simple spaceship with two proton torpedo stores and four lasers
 */
